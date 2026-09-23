@@ -298,7 +298,7 @@ The Swagger UI allows users to:
 Clone the repository:
 
 ```bash
-git clone https://github.com/ayushi-stacks/project-06-ml-production-api.git
+git clone https://github.com/ayushi-stacks/ML-production-API.git
 ```
 
 Move into the project:
