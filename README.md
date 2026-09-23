@@ -625,11 +625,6 @@ Instead of running the model directly from a notebook or Python script, other ap
 
 **Ayushi Mandal**
 
-B.Tech Information Technology
-University of Calcutta
-
-Interested in Machine Learning, Artificial Intelligence, Software Development, UI/UX Design, and building practical technology projects.
-
 ---
 
 ## Related Project
